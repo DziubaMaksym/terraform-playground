@@ -1,7 +1,7 @@
 # Output the path of the created file
 output "file_path" {
   description = "File created at:"
-  value       = local_file.example.filename
+  value       = [for f in local_file.example : f.filename]
 }
 
 # Output the current time

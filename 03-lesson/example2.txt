@@ -1,0 +1,3 @@
+Hello, Terraform!
+Password: vHE@dOI%pbnbI6x7
+IP: 192.168.0.1

@@ -1,0 +1,4 @@
+Hello, Terraform!
+Date: 2023-12-14T13:12:07Z
+Password: 0@4zCHbxpYv1
+IP: 192.168.0.1

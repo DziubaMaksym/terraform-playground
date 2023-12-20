@@ -1,2 +1,0 @@
-Hello, Terraform!
-Your rundom password: 0@4zCHbxpYv1
